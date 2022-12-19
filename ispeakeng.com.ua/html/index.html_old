@@ -1,0 +1,696 @@
+<!DOCTYPE HTML>
+<html lang="ru">
+    <head>
+        <meta http-equiv="Content-type" content="text/html; charset=utf-8" />
+        <meta name="description" content="Описание страницы. Не менее 160 символов. " />
+        <meta name="keywords" content="Здесь указываем список ключевых слов, разделенные запятой." />
+        <title>ШКОЛА АНГЛИЙСКОГО ЯЗЫКА</title>
+		<link rel="stylesheet" type="text/css" href="style.css">
+ <meta name="viewport" content="initial-scale=1">
+
+<!-- <script src="script.js"></script> -->
+    </head>
+    <body>
+<div id="top_page"></div>
+<header>
+
+<div class="container">
+<div class="logo"><a href="#top_page">I_SPEAK.<span>ENGLISH</span></a></div>
+<div class="phone">
+  <a title="Viber" class="viber" href="viber://chat?number=+380506331469">VI</a>
+  <a title="Telegram" class="telegram" href="tg://resolve?domain=ispeakeng">TE</a>
+  <a href="tel:+38 050 633 14 69">+38 050 633 14 69</a>
+</div>
+<nav>
+<div class="menuToggle"><span></span></div>
+<ul class="menu">
+<li><a href="#who_we_are">КТО МЫ?</a></li>
+<li><a href="#how_we_teach">КАК МЫ УЧИМ?</a></li>
+<li><a href="#coast_lesson">СТОИМОСТЬ</a></li>
+<li><a href="#rewies_slide">ОТЗЫВЫ</a></li>
+<li><a href="#contact_slide" class="zayavka-block" >ЗАПИСАТЬСЯ</a> </li>
+</ul>
+</nav>
+
+
+</div>
+</header>
+<div class="slide1" id="home">
+<div class="container">
+<div class="container_mini">
+<h1>ШКОЛА<br>АНГЛИЙСКОГО<br>ЯЗЫКА</h1>
+<div class="descr_h">
+ У Вас взгляд человека, который хочет<br>учить английский! Может, уже пора?</div>
+<button button-href="#contact_slide">НАЧАТЬ УЧИТЬСЯ</button>
+
+</div>
+<div class="social">
+<a href="https://www.facebook.com/I-Speak-English-437807153411927/?ref=settings" target="_blank">FB</a>
+<a href="https://www.instagram.com/i_speak.eng/" target="_blank">IN</a>
+<a href="https://t.me/ispeakeng" target="_blank">TE</a>
+</div>
+</div>
+
+</div>
+<div class="who_we_are"  id="who_we_are">
+<div class="container">
+<div class="container_mini">
+<div class="who_we_are_left">
+<div class="slide_title_mini">WHO WE ARE?</div>
+<div class="slide_title">КТО МЫ?</div>
+<div class="who_we_are_text">I_speak.ENGLISH – это школа английского языка, которая станет Вашей семьёй. У нас отцовская требовательность о проделанной работе, материнская забота о Ваших знаниях, братская поддержка и мудрые бабушкины советы ☺️</div>
+</div>
+<div class="who_we_are_right">
+<div class="who_we_are_oval one revealator-slideright revealator-once"><b>252</b><span>УЧЕНИКА</span></div>
+<div class="who_we_are_oval big two revealator-slideright revealator-delay2 revealator-once"><b>24192</b><span>УРОКА</span></div>
+<div class="who_we_are_oval three revealator-slideright revealator-delay4 revealator-once"><b>36</b><span>УЧИТЕЛЕЙ</span></div>
+</div>
+</div>
+</div>
+</div>
+
+<div class="how_we_teach"  id="how_we_teach">
+<div class="container">
+<div class="container_mini">
+<div class="how_we_teach_top">
+<div class="slide_title_mini">HOW WE TEACH?</div>
+<div class="slide_title">КАК МЫ<br>ОБУЧАЕМ?</div>
+
+</div>
+ <div class="how_we_teach_bottom">
+ <div class="how_we_teach_block revealator-zoomin revealator-once">
+ <div class="how_we_teach_block_img"><img src="image/how_we_teach_img.png" /> <div class="how_we_teach_block_number">1.</div></div>
+
+ <div class="how_we_teach_block_title">По скайпу
+</div>
+ </div>
+ <div class="how_we_teach_block revealator-zoomin revealator-delay1 revealator-once">
+ <div class="how_we_teach_block_img"><img src="image/how_we_teach_img2.png" /><div class="how_we_teach_block_number">2.</div></div>
+
+ <div class="how_we_teach_block_title">Индивидуально</div>
+ </div>
+ <div class="how_we_teach_block revealator-zoomin revealator-delay2 revealator-once">
+ <div class="how_we_teach_block_img"><img src="image/how_we_teach_img3.png" /> <div class="how_we_teach_block_number">3.</div></div>
+
+ <div class="how_we_teach_block_title">В группе
+</div>
+ </div>
+</div>
+</div>
+</div>
+</div>
+
+<div class="how_we_plan_teach"  id="how_we_plan_teach">
+<div class="container">
+<div class="container_mini">
+<div class="how_we_plan_teach_top">
+<div class="slide_title_mini">HOW WE PLAN TO TEACH?</div>
+<div class="slide_title">ПЛАН<br>ОБУЧЕНИЯ </div>
+
+</div>
+ <div class="how_we_plan_teach_bottom">
+ <div class="how_we_plan_teach_block one revealator-slidedown revealator-once">
+ <div class="how_we_plan_teach_block_img"><img src="image/how_we_plan_teach_img1.png" /> <div class="how_we_plan_teach_block_number">1.</div></div>
+
+ <div class="how_we_plan_teach_block_title">Подбираем<br>преподавателя</div>
+ </div>
+ <div class="how_we_plan_teach_block two revealator-slidedown revealator-once revealator-delay2">
+ <div class="how_we_plan_teach_block_img"><img src="image/how_we_plan_teach_img2.png" /><div class="how_we_plan_teach_block_number">2.</div></div>
+
+ <div class="how_we_plan_teach_block_title">Составляем<br>индивидуальную<br>программу<br>обучения</div>
+ </div>
+ <div class="how_we_plan_teach_block three revealator-slidedown revealator-once revealator-delay4">
+ <div class="how_we_plan_teach_block_img"><img src="image/how_we_plan_teach_img3.png" /><div class="how_we_plan_teach_block_number">3.</div></div>
+
+ <div class="how_we_plan_teach_block_title">Формируем<br>расписание</div>
+ </div>
+ <div class="how_we_plan_teach_block four revealator-slidedown revealator-once revealator-delay2">
+ <div class="how_we_plan_teach_block_img"><img src="image/how_we_plan_teach_img4.png" /><div class="how_we_plan_teach_block_number">4.</div></div>
+
+ <div class="how_we_plan_teach_block_title">Начинаем<br>обучение</div>
+ </div>
+</div>
+</div>
+</div>
+</div>
+
+<div class="coast_lesson"  id="coast_lesson">
+<div class="container">
+ <div class="container_mini">
+<div class="slide_title_mini">FIRST LESSON IS FREE</div>
+<div class="slide_title">СТОИМОСТЬ</div>
+
+ <div class="coast_lesson_container">
+ <div class="coast_lesson_block revealator-slideleft revealator-once">
+ <div class="coast_lesson_block_icon"><img src="image/sk.svg" /></div>
+ <div class="coast_lesson_block_title">По скайпу</div>
+ <div class="coast_lesson_block_desc">от 190 грн /<br>60 минут</div>
+ <div class="coast_lesson_block_button" button-href="#contact_slide">ЗАПИСАТЬСЯ</div>
+ </div>
+ <div class="coast_lesson_block revealator-slideleft revealator-delay2 revealator-once">
+ <div class="coast_lesson_block_icon"><img src="image/user.svg" /></div>
+ <div class="coast_lesson_block_title">Индивидуально</div>
+ <div class="coast_lesson_block_desc">от 190 грн /<br>60 минут</div>
+ <div class="coast_lesson_block_button" button-href="#contact_slide">ЗАПИСАТЬСЯ</div>
+ </div>
+  <div class="coast_lesson_block revealator-slideleft revealator-delay4 revealator-once">
+ <div class="coast_lesson_block_icon"><img src="image/users.svg" /></div>
+ <div class="coast_lesson_block_title">В группе</div>
+ <div class="coast_lesson_block_desc">от 650 грн / мес.<br>
+(2 занятия в неделю) </div>
+ <div class="coast_lesson_block_button" button-href="#contact_slide">ЗАПИСАТЬСЯ</div>
+ </div>
+</div>
+</div>
+</div>
+</div>
+
+
+ <div class="yot_will_get"  id="yot_will_get">
+<div class="container">
+<div class="container_mini">
+<div class="yot_will_get_left">
+<div class="slide_title_mini">WHAT WILL YOU GET</div>
+<div class="slide_title">ЧТО ВЫ<br>ПОЛУЧИТЕ</div>
+</div>
+<div class="yot_will_get_right">
+<div class="yot_will_get_oval one revealator-zoomin revealator-delay3 revealator-once">Повышение<br>уровня<br>грамматических<br>знаний</div>
+<div class="yot_will_get_oval big two revealator-zoomin revealator-delay4 revealator-once">Cопровождение в период<br> всего курса во<br> внеурочное время</div>
+<div class="yot_will_get_oval three revealator-zoomin revealator-delay5 revealator-once">Множество<br>бесплатной<br>обучающей<br>литературы</div>
+<div class="yot_will_get_oval four revealator-zoomin revealator-delay6 revealator-once">Улучшение<br>навыков<br>разговорного<br>английского</div>
+<div class="yot_will_get_oval five revealator-zoomin revealator-delay7 revealator-once">Обогащение<br>словарного<br>запаса</div>
+<div class="yot_will_get_oval six revealator-zoomin revealator-delay8 revealator-once">Разрушение<br>языкового<br>барьера</div>
+<div class="yot_will_get_oval_mini one revealator-zoomin revealator-once"></div>
+<div class="yot_will_get_oval_mini two revealator-zoomin revealator-once"></div>
+<div class="yot_will_get_oval_mini2 one revealator-zoomin revealator-delay1 revealator-once"></div>
+<div class="yot_will_get_oval_mini2 two revealator-zoomin revealator-delay1 revealator-once"></div>
+<div class="yot_will_get_oval_mini3 one revealator-zoomin revealator-delay2 revealator-once"></div>
+<div class="yot_will_get_oval_mini3 two revealator-zoomin revealator-delay2 revealator-once"></div>
+<div class="yot_will_get_oval_mini3 three revealator-zoomin revealator-delay2 revealator-once"></div>
+</div>
+</div>
+</div>
+</div>
+
+
+
+<div class="learner_slide" id="learner_slide">
+<div class="container">
+<div class="slide_title_mini">OUR STUDENTS</div>
+<div class="slide_title">НАШИ УЧЕНИКИ </div>
+<div class="learner_slider">
+
+<div class="learner_slide_block">
+<img src="image/slider/slider1.jpg" />
+</div>
+
+<div class="learner_slide_block">
+<img src="image/slider/slider2.jpg" />
+</div>
+
+<div class="learner_slide_block">
+<img src="image/slider/slider3.jpg" />
+</div>
+
+<div class="learner_slide_block">
+<img src="image/slider/slider4.jpg" />
+</div>
+ <div class="learner_slide_block">
+<img src="image/slider/slider5.jpg" />
+</div>
+
+<div class="learner_slide_block">
+<img src="image/slider/slider6.jpg" />
+</div>
+
+<div class="learner_slide_block">
+<img src="image/slider/slider7.jpg" />
+</div>
+
+<div class="learner_slide_block">
+<img src="image/slider/slider8.jpg" />
+</div>
+<div class="learner_slide_block">
+<img src="image/slider/slider9.jpg" />
+</div>
+<div class="learner_slide_block">
+<img src="image/slider/slider10.jpg" />
+</div>
+<div class="learner_slide_block">
+<img src="image/slider/slider11.jpg" />
+</div>
+<div class="learner_slide_block">
+<img src="image/slider/slider12.jpg" />
+</div>
+</div>
+</div>
+</div>
+
+<div class="rewies_slide" id="rewies_slide">
+<div class="container">
+<div class="container_mini">
+<div class="slide_title_mini">FEEDBACK</div>
+<div class="slide_title">ОТЗЫВЫ</div>
+<div class="rewies_slider">
+<div>
+<div class="rewies_slide_block">
+<div class="rewies_slide_block_desc">Хочу поблагодарить всех сотрудников школы I speak English за Ваше старание и талант обучать деток! Мой ребенок занимается около полгода, результат превзошёл мои ожидания! Уровень знаний колоссально повысился, сыну очень нравится, ходит с удовольствием. Особенную благодарность хочу выразить Елене, очень чуткий преподаватель и замечательный человек! Процветания Вам, ребята!</div>
+<div class="rewies_slide_block_author"><a href="https://instagram.com/irenazavgorodnyaya?igshid=8k4b5y66qpce" target="_blank"><div class="icon"><span>IN</span></div>Ирина, ученик</a></div>
+</div>
+</div>
+<div>
+<div class="rewies_slide_block">
+<div class="rewies_slide_block_desc">Занимаюсь в школе I speak English меньше полугода и могу сказать, что уровень знания языка у меня существенно вырос. Моей целью было научиться говорить и сейчас я говорю. Наконец-то могу связать два слова! Урок проходит интересно и весело. В группе мы играем, обсуждаем необходимые для жизни темы. Преподаватель рассказывает простыми словами сложные вещи и как это всё применить на практике. Также я занималась индивидуально через скайп. Могу сказать, что это очень удобно. Я легко выполняю сложные задания и это очень мотивирует! Важный плюс: классное территориальное расположение. Единственный минус - занятие проходит быстро и хочется ещё!)) </div>
+<div class="rewies_slide_block_author"><a href="https://instagram.com/ro3alie?igshid=1c2rld79glw83" target="_blank"><div class="icon"><span>IN</span></div>Розалия, ученик</a></div>
+</div>
+</div>
+<div>
+<div class="rewies_slide_block">
+<div class="rewies_slide_block_desc">Хочу сказать большое спасибо школе I_speak.eng за то, что помогла мне заговорить по-английски! Это было самой большой проблемой для меня( Но спустя 2,5 месяца, на одной из конференций я смогла ясно изъясняться, хотя раньше стояла в сторонке и думала, что никогда не заговорю! Классные учителя, атмосфера, подход, в общем ещё раз спасибо!
+</div>
+<div class="rewies_slide_block_author"><a href="https://instagram.com/carreydi?igshid=cz2btg1diyjs" target="_blank"><div class="icon"><span>IN</span></div>Светлана, ученик</a></div>
+</div>
+</div>
+<div>
+<div class="rewies_slide_block">
+<div class="rewies_slide_block_desc">Была ученицей этой школы, осталась очень довольна) преподаватели действительно знают и любят своё дело, за что им большое спасибо!) В школе используются новейшие методы обучения, которые помогут любому подтянуть свой уровень! В общем, обращайтесь, точно не пожалеете))
+</div>
+<div class="rewies_slide_block_author"><a href="https://instagram.com/ya.bko?igshid=12r9lpfikimoe" target="_blank"><div class="icon"><span>IN</span></div>Яна, ученик</a></div>
+</div>
+</div>
+<div>
+<div class="rewies_slide_block">
+<div class="rewies_slide_block_desc">Не могу не высказать слов благодарности организаторам и преподавателям школы английского языка I_speak.eng. Отличная организация занятий, интересные, содержательные уроки дают возможность как вспомнить то, что когда-то знал, так и узнать много нового. Атмосфера тёплая, дружеская, время проведения занятий удобное, словом, молодцы ребята! Так держать!
+</div>
+<div class="rewies_slide_block_author"><a href="https://instagram.com/mkarapetova?igshid=1l9dohljo5hal" target="_blank"><div class="icon"><span>IN</span></div>Марина, ученик</a></div>
+</div>
+</div>
+<div>
+<div class="rewies_slide_block">
+<div class="rewies_slide_block_desc">Я начала работу в школе с начала 2019 года, работаю по сегодняшний день и планирую продолжать преподавать в школе I speak English. Основатели школы Вячеслав и Елена очень приятные молодые люди, с ними легко и приятно сотрудничать. Мне очень нравится преподавать здесь, комфортные условия, фиксированный график, стабильная зарплата.
+</div>
+<div class="rewies_slide_block_author"><a href="https://instagram.com/yuliafun?igshid=17r06uh0tcwh4" target="_blank"><div class="icon"><span>IN</span></div>Юлия, преподаватель</a></div>
+</div>
+</div>
+<div>
+<div class="rewies_slide_block">
+<div class="rewies_slide_block_desc">В школе английского языка “I speak English” хочется отметить крутой индивидуальный подход к каждому ученику. Преподаватели стараются подобрать удобное расписание занятий, чтобы у каждого ученика была возможность посетить как групповые занятия, так и вечерние занятие, такие как «Movie Night».
+Отдельно хочется отметить креативный подход в преподавании английского, который совмещен с профессионализмом. Я бы сказала, в школе «I speak English» прививается любовь к английскому языку, а это очень важно для получение высокого результата, который каждый хочет получить!
+</div>
+<div class="rewies_slide_block_author"><a href="https://www.instagram.com/ekaterina_zaets/?hl=ru" target="_blank"><div class="icon"><span>IN</span></div>Екатерина, преподаватель</a></div>
+</div>
+</div>
+<div>
+<div class="rewies_slide_block">
+<div class="rewies_slide_block_desc">Спасибо огромное ребятам за то, что они делают! Являюсь ученицей этой школы, очень довольна и процессом, и результатом! Хорошая организация, замечательные преподаватели, дружественная обстановка, очень интересные занятия, на которые хочется приходить снова и снова, вся информация структурирована по уровням и по урокам, никакой нудной зубрежки, только интересные тренировки!
+Отдельная благодарность преподавателю Марии за безумно интересные и информативные занятия! И сам не замечаешь, как довольно быстро обрастаешь знаниями в области английского языка! Большим плюсом также является онлайн платформа, ведь частенько могу "позалипать" в телефоне, а теперь делаю это с пользой. На страничке в Instagram представлено много полезного - лексика, тренировки слов, грамматика, видео на английском! Вот в такой непринуждённой форме заметно пополняю запас знаний.
+Школой довольна, буду и дальше здесь учиться и другим рекомендую!
+</div>
+<div class="rewies_slide_block_author"><a href="https://www.instagram.com/tserikova777/?hl=ru" target="_blank"><div class="icon"><span>IN</span></div>Татьяна, ученик</a></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+
+<div class="contact_slide" id="contact_slide">
+<div class="container">
+ <div class="container_mini">
+<div class="slide_title_mini">SIGN UP</div>
+<div class="slide_title">ЗАПИСАТЬСЯ</div>
+<div class="contact_form revealator-fade revealator-delay4 revealator-once">
+<form id="ajax_form3" action="mail.php" method="post">
+<input type="hidden" name="form_h" value="У вас возникли вопросы?" />
+<input type="text" name="name" placeholder="Имя" required />
+<input type="text" name="phone" placeholder="Телефон" required />
+<input type="text" name="email" placeholder="E-mail" required />
+<textarea placeholder="Сообщение" name="question"></textarea>
+<button>ОТПРАВИТЬ</button>
+</form>
+</div>
+</div>
+</div>
+</div>
+<footer>
+<div class="container">
+<div class="container_mini">
+<div class="f_logo"><a href="#top_page">I_SPEAK.<span>ENGLISH</span></a></div>
+
+<div class="f_email"><a href="mailto:letters.ispeakeng@gmail.com">letters.ispeakeng@gmail.com</a></div>
+<div class="f_phone">
+<a title="Viber" class="viber" href="viber://chat?number=+380506331469">VI</a>
+<a title="Telegram" class="telegram" href="tg://resolve?domain=ispeakeng">TE</a>
+<a href="tel:+38 050 633 14 69">+38 050 633 14 69</a>
+</div>
+ </div>
+ <div class="container_mini f_adress_container">
+   <div class="f_adress_title">Адреса:</div>
+<div class="f_adress">Харьков,  площадь Свободы 5/1 (здание Госпрома)</div>
+<div class="f_adress">Харьков, бульвар Сергея Грицевца, 2а</div>
+<div class="f_adress">Харьков, улица 12 апреля, 8</div>
+</div>
+ </div>
+</footer>
+<div class="popup" id="popup1">
+<div class="close-form"></div>
+		<div class="popup-content">
+		<form id="ajax_form6" action="mail.php" method="post">
+<span>Узнать о наличии</span>
+<input type="hidden" name="form_h" value="Узнать о наличии" />
+<input type="text" name="name" placeholder="Ваше имя" required="">
+<input type="text" name="phone" placeholder="Ваш телефон" required="">
+<button>Оставить заявку</button>
+</form>
+		</div>
+</div>
+<div class="overlay"></div>
+<div class="popup" id="popup3">
+<div class="close-form"></div>
+		<div class="popup-content">
+		<form id="ajax_form7" action="mail.php" method="post">
+<span>Связаться с СТО</span>
+<input type="hidden" name="form_h" value="Связаться с СТО" />
+<input type="text" name="name" placeholder="Ваше имя" required="">
+<input type="text" name="phone" placeholder="Ваш телефон" required="">
+<button>Оставить заявку</button>
+</form>
+		</div>
+</div>
+<div class="overlay3"></div>
+
+
+<div class="popup-thank" id="popup2">
+<div class="close-form"></div>
+		<div class="popup-content">
+		<b>Спасибо за заявку!</b>
+<span>Hаш менеджер свяжется с<br> вами в ближайшее время!</span>
+		</div>
+</div>
+<div class="overlay2"></div>
+  <script src="https://code.jquery.com/jquery-latest.min.js"></script>
+  <link rel="stylesheet" href="fm.revealator.jquery.min.css">
+  <script src="jquery-1.11.3.min.js"></script>
+  <script src="fm.revealator.jquery.min.js"></script>
+
+<link rel="stylesheet" type="text/css" href="//cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.css"/>
+<script type="text/javascript" src="//cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.min.js"></script>
+	<script src="maskinput.js"></script>
+	<script>
+   jQuery(function($){
+   $('input[name="phone"]').mask("+380 (999) 999-9999");
+   });
+ $(function(){
+
+    $('.menuToggle').on('click', function() {
+       $('.menu').slideToggle(300, function(){
+            if( $(this).css('display') === "none"){
+                $(this).removeAttr('style');
+            }
+       });
+
+    });
+document.querySelector( ".menuToggle" )
+  .addEventListener( "click", function() {
+    this.classList.toggle( "active" );
+  });
+
+ /** закрывать меню **/
+    $(document).mouseup(function(e) {
+        var $target = $(e.target);
+        if ($target.closest(".menu, .menuToggle").length == 0) {
+           $('.menu').removeAttr('style');
+           $('.menuToggle').removeClass('active');
+        }
+    });
+});
+</script>
+<script>
+
+				$(function(){
+$('#ajax_form').submit(function(e){
+e.preventDefault();
+var m_method=$(this).attr('method');
+var m_action=$(this).attr('action');
+var m_data=$(this).serialize();
+$.ajax({
+type: m_method,
+url: m_action,
+data: m_data,
+success: function(result){
+$("#popup2").fadeIn("slow");
+$(".overlay2").fadeIn();
+	$('.overlay2, .close-form').click(function (e) {
+	$("#popup2").fadeOut("slow");
+    $(".overlay2").fadeOut();
+
+ });
+<!-- $('.ajax_form').after("<span class='result-form'>Ваше сообщение отправлено!</span>"); -->
+}
+});
+});
+$('#ajax_form2').submit(function(e){
+e.preventDefault();
+var m_method=$(this).attr('method');
+var m_action=$(this).attr('action');
+var m_data=$(this).serialize();
+$.ajax({
+type: m_method,
+url: m_action,
+data: m_data,
+success: function(result){
+$("#popup2").fadeIn("slow");
+$(".overlay2").fadeIn();
+	$('.overlay2, .close-form').click(function (e) {
+	$("#popup2").fadeOut("slow");
+    $(".overlay2").fadeOut();
+
+ });
+<!-- $('.ajax_form').after("<span class='result-form'>Ваше сообщение отправлено!</span>"); -->
+}
+});
+});
+$('#ajax_form3').submit(function(e){
+e.preventDefault();
+var m_method=$(this).attr('method');
+var m_action=$(this).attr('action');
+var m_data=$(this).serialize();
+$.ajax({
+type: m_method,
+url: m_action,
+data: m_data,
+success: function(result){
+$("#popup2").fadeIn("slow");
+$(".overlay2").fadeIn();
+	$('.overlay2, .close-form').click(function (e) {
+	$("#popup2").fadeOut("slow");
+    $(".overlay2").fadeOut();
+
+ });
+<!-- $('.ajax_form').after("<span class='result-form'>Ваше сообщение отправлено!</span>"); -->
+}
+});
+});
+$('#ajax_form4').submit(function(e){
+e.preventDefault();
+var m_method=$(this).attr('method');
+var m_action=$(this).attr('action');
+var m_data=$(this).serialize();
+$.ajax({
+type: m_method,
+url: m_action,
+data: m_data,
+success: function(result){
+$("#popup2").fadeIn("slow");
+$(".overlay2").fadeIn();
+	$('.overlay2, .close-form').click(function (e) {
+	$("#popup2").fadeOut("slow");
+    $(".overlay2").fadeOut();
+
+ });
+<!-- $('.ajax_form').after("<span class='result-form'>Ваше сообщение отправлено!</span>"); -->
+}
+});
+});
+$('#ajax_form5').submit(function(e){
+e.preventDefault();
+var m_method=$(this).attr('method');
+var m_action=$(this).attr('action');
+var m_data=$(this).serialize();
+$.ajax({
+type: m_method,
+url: m_action,
+data: m_data,
+success: function(result){
+$("#popup2").fadeIn("slow");
+$(".overlay2").fadeIn();
+	$('.overlay2, .close-form').click(function (e) {
+	$("#popup2").fadeOut("slow");
+    $(".overlay2").fadeOut();
+
+ });
+<!-- $('.ajax_form').after("<span class='result-form'>Ваше сообщение отправлено!</span>"); -->
+}
+});
+});
+$('#ajax_form6').submit(function(e){
+e.preventDefault();
+var m_method=$(this).attr('method');
+var m_action=$(this).attr('action');
+var m_data=$(this).serialize();
+$.ajax({
+type: m_method,
+url: m_action,
+data: m_data,
+success: function(result){
+		$("#popup1").fadeOut("slow");
+$(".overlay").fadeOut();
+$("#popup2").fadeIn("slow");
+$(".overlay2").fadeIn();
+	$('.overlay2, .close-form').click(function (e) {
+	$("#popup2").fadeOut("slow");
+    $(".overlay2").fadeOut();
+
+ });
+<!-- $('.ajax_form6').after("<span class='result-form'>Ваше сообщение отправлено!</span>"); -->
+}
+});
+});
+$('#ajax_form7').submit(function(e){
+e.preventDefault();
+var m_method=$(this).attr('method');
+var m_action=$(this).attr('action');
+var m_data=$(this).serialize();
+$.ajax({
+type: m_method,
+url: m_action,
+data: m_data,
+success: function(result){
+		$("#popup3").fadeOut("slow");
+$(".overlay3").fadeOut();
+$("#popup2").fadeIn("slow");
+$(".overlay2").fadeIn();
+	$('.overlay3, .close-form').click(function (e) {
+	$("#popup2").fadeOut("slow");
+    $(".overlay2").fadeOut();
+
+ });
+<!-- $('.ajax_form6').after("<span class='result-form'>Ваше сообщение отправлено!</span>"); -->
+}
+});
+});
+});
+jQuery("document").ready(function($){
+
+	var nav = $('header');
+
+	$(window).scroll(function () {
+		if ($(this).scrollTop() > 136) {
+			nav.addClass("fixed");
+		} else {
+			nav.removeClass("fixed");
+		}
+	});
+
+});
+
+    function PopUpShow(){
+		$("#popup1").fadeIn("slow");
+$(".overlay").fadeIn();
+    }
+	function PopUpShow3(){
+		$("#popup3").fadeIn("slow");
+$(".overlay3").fadeIn();
+    }
+	    function PopUpHide(){
+        $("#popup1").fadeOut("slow");
+		$(".overlay").fadeOut(); ;
+    }
+	function PopUpHide3(){
+        $("#popup3").fadeOut("slow");
+		$(".overlay3").fadeOut();
+    }
+	$('.overlay, .close-form').click(function (e) {
+    $(".overlay").fadeOut();
+ $("#popup1").fadeOut("slow"); });
+	$('.overlay3, .close-form').click(function (e) {
+    $(".overlay3").fadeOut();
+ $("#popup3").fadeOut("slow"); });
+ $(document).ready(function(){
+    $("nav").on("click","a", function (event) {
+        event.preventDefault();
+        var id  = $(this).attr('href'),
+            top = $(id).offset().top;
+        $('body,html').animate({scrollTop: top}, 1500);
+    });
+    $(".slide1").on("click","button", function (event) {
+        event.preventDefault();
+        var id  = $(this).attr('button-href'),
+            top = $(id).offset().top;
+        $('body,html').animate({scrollTop: top}, 1500);
+    });
+    $(".coast_lesson_block").on("click",".coast_lesson_block_button", function (event) {
+        event.preventDefault();
+        var id  = $(this).attr('button-href'),
+            top = $(id).offset().top;
+        $('body,html').animate({scrollTop: top}, 1500);
+    });
+    $(".logo").on("click","a", function (event) {
+        event.preventDefault();
+        var id  = $(this).attr('href'),
+            top = $(id).offset().top;
+        $('body,html').animate({scrollTop: top}, 1500);
+    });
+    $(".f_logo").on("click","a", function (event) {
+        event.preventDefault();
+        var id  = $(this).attr('href'),
+            top = $(id).offset().top;
+        $('body,html').animate({scrollTop: top}, 1500);
+    });
+});
+$(function() {
+if(screen.width < 767) {
+   $(".evakuator_form").before($(".evakuator_text"));
+   }
+ });
+</script>
+
+<script>
+$('.rewies_slider').slick({
+  slidesToShow: 1,
+  adaptiveHeight:true,
+  slidesToScroll: 1
+});
+$('.learner_slider').slick({
+  slidesToShow: 4,
+  slidesToScroll: 4,
+  responsive: [
+    {
+      breakpoint: 768,
+      settings: {
+        slidesToShow: 2,
+        slidesToScroll: 2
+      }
+    },
+    {
+      breakpoint: 480,
+      settings: {
+        slidesToShow: 1,
+        slidesToScroll: 1
+      }
+    }
+  ]
+});
+
+</script>
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-146331751-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-146331751-1');
+</script>
+    </body>
+</html>
